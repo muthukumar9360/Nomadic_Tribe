@@ -80,19 +80,15 @@ To run this project locally:
 ```bash
 1️⃣ Clone the repository
 git clone https://github.com/your-username/NomadicTribeClone.git
+
 2️⃣ Navigate into the folder
-bash
-Copy code
 cd NomadicTribeClone
+
 3️⃣ Open the website
 Just double-click:
-
-diff
-Copy code
 index.html
 Or launch via browser:
 
-bash
-Copy code
 start index.html    # Windows
 open index.html     # macOS
+```
