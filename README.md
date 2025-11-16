@@ -69,35 +69,16 @@ This project demonstrates strong frontend skills with emphasis on layout, respon
 - **CSS3** (Animations, Flexbox, Grid, Responsive Design)  
 - **JavaScript (Vanilla)**  
 - **Font Awesome Icons**  
-- **YouTube iframe embed**  
-
----
-
-## 📁 Project Structure
-
-NomadicTribeClone/
-│
-├── index.html # Main webpage
-├── style.css # Styling for entire website
-├── script.js # Slider and interactivity JS
-├── Images/ # All images used (destinations, icons, logos)
-│ ├── Destinations/
-│ ├── *.webp
-│ ├── *.jpeg
-│ └── *.png
-└── README.md
-
-yaml
-Copy code
+- **YouTube iframe embed**
 
 ---
 
 ## 🚀 Getting Started
 
 To run this project locally:
-
-### 1️⃣ Clone the repository  
+   
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/your-username/NomadicTribeClone.git
 2️⃣ Navigate into the folder
 bash
